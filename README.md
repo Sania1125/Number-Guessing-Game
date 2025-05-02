@@ -5,7 +5,7 @@ A fun Python console game using loops and logic.
 A fun and interactive number guessing game built using Python.  
 Perfect for beginners learning about loops, conditionals, user input, and random number generation.
 
----
+----
 
 ## 🧠 How It Works
 
